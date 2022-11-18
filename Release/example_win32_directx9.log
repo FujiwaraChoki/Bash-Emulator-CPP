@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Das Zwischenverzeichnis (D:\C++\imgui\examples\example_win32_directx9\Release\) enthält freigegebene Dateien aus einem anderen Projekt (example_win32_directx9.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  Code wird generiert.
+  0 of 1844 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  example_win32_directx9.vcxproj -> D:\C++\imgui\examples\example_win32_directx9\Release\Bash-Emulator.exe
